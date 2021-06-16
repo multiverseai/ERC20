@@ -1,5 +1,5 @@
 {
-  "name": "hadron-ai-erc20",
+  "name": "multiverse-erc20",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -24,13 +24,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HadronAI/ERC20.git"
+    "url": "git+https://github.com/multiverseai/ERC20.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HadronAI/ERC20/issues"
+    "url": "https://github.com/multiverseai/ERC20/issues"
   },
-  "homepage": "https://github.com/HadronAI/ERC20#readme"
+  "homepage": "https://github.com/multiverseai/ERC20#readme"
 }
